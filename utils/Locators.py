@@ -27,7 +27,8 @@ locators = {
     "enterTime": "//input[@id='timeEntriesTime']",
     "timesheetNotes": "//textarea[@placeholder='Enter Here..']",
     "saveButton": "//button[normalize-space()='Save']",
-    "filltimesheet_selectdate": "(//input[@id='timedragon_id_8971'])[1]"
+    "filltimesheet_selectdate": "(//input[@id='timedragon_id_8971'])[1]",
+    "abc": "(//input[@id='00000'])[1]",
 
     
 
